@@ -1,2 +1,2 @@
 # matlab
-matlab parallel computing examples
+test matlab parallel computing examples
